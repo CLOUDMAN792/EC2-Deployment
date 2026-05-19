@@ -2,7 +2,7 @@
 
 ## Project Overveiw
 
-This project demonstrates the deployment and configuration of an Aws Ec2 Amazon linux server instance . The project include ssh connectivity , configuration of iux server, httpd installation, and web server hosting.
+This project demonstrates the deployment and configuration of an Aws Ec2 Amazon linux server instance . The project include ssh connectivity , configuration of linux server, httpd installation, and web server hosting.
 
 ## Technologies used
 
